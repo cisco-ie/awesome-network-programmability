@@ -3,26 +3,35 @@
 > A curated list of resources and packages for network programmability
 
 
-## Contents
+## Table of Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
-
-
-## Section
-
-About this section. Optional. Keep this short and focus on the list.
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Python](#python)
+- [Resources](#resources)
 
 
-## Another Section
+## Python
 
-### Subsection
+### Libraries
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Napalm](https://github.com/napalm-automation/napalm)  
+Network Automation and Programmability Abstraction Layer with Multivendor support
+
+- [Netmiko](https://github.com/ktbyers/netmiko)  
+Multi-vendor library to simplify Paramiko SSH connections to network devices
+
+- [Solenoid](https://github.com/ios-xr/Solenoid)  
+App that injects routes directly into Cisco's IOS-XR RIB table
+
+### Examples
+- [ios-xr-grpc-python](https://github.com/cisco-ie/ios-xr-grpc-python)  
+Example repository on how to use GRPC in python for the IOS-XR end node
+
+## Resources
+
+### Books
+
+- [Programmability and Automation with Cisco Open NX-OS](http://www.cisco.com/c/dam/en/us/td/docs/switches/datacenter/nexus9000/sw/open_nxos/programmability/guide/Programmability_Open_NX-OS.pdf)  
+Understand how to utilize network programmability for NXOS *(Programmability Fundamentals, Model Driven Programming, Configuration Automation)*
 
 
 ## Contribute
@@ -34,5 +43,5 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, Cisco Innovation Edge Team has waived all copyright and
+To the extent possible under law, Cisco's Innovation Edge Team has waived all copyright and
 related or neighboring rights to this work.
