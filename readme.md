@@ -30,6 +30,8 @@ Example repository on how to use GRPC in python for the IOS-XR end node
 
 ### Books
 
+- [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/)
+  Arguably one of the simplest and best guides to using network sockets in C. Since it's in C you get to understand a lot of concepts that might otherwise be glossed over in higher level languages. Also has basic, boilerplate examples.
 - [Programmability and Automation with Cisco Open NX-OS](http://www.cisco.com/c/dam/en/us/td/docs/switches/datacenter/nexus9000/sw/open_nxos/programmability/guide/Programmability_Open_NX-OS.pdf)  
 Understand how to utilize network programmability for NXOS *(Programmability Fundamentals, Model Driven Programming, Configuration Automation)*
 
