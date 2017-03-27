@@ -64,8 +64,8 @@ Multi-vendor library to simplify Paramiko SSH connections to network devices
 "... a robust network automation toolkit written in Python that was designed for interfacing with network devices."
 
 ### Examples
-- [ios-xr-grpc-python](https://github.com/cisco-ie/ios-xr-grpc-python)  
-Example repository on how to use GRPC in python for the IOS-XR end node
+- [Cisco gRPC Connection Libraries](https://github.com/cisco-grpc-connection-libs)  
+Example repositories on how to use gRPC in Python, NodeJS, etc. for the IOS-XR end node.
 
 - [Solenoid](https://github.com/ios-xr/Solenoid)  
 App that injects routes directly into Cisco's IOS-XR RIB table
