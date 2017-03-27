@@ -20,10 +20,10 @@
 ## Utilities
 
 ### Automation
-- [Ansible](https://www.ansible.com)  
+- [Ansible](https://docs.ansible.com)  
 An agentless automation tooling that can perform a variety of automation functions against a wide variety of devices and operating systems.
 
-- [Puppet](https://puppet.com)  
+- [Puppet](https://docs.puppet.com)  
 An agent-based automation tooling that can perform a variety of automation functions against a wide variety of devices and operating systems.
 
 - [Chef](https://docs.chef.io/chef_overview.html)  
