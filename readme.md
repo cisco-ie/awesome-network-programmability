@@ -79,7 +79,7 @@ Understand how to utilize network programmability for NXOS *(Programmability Fun
 - [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/)  
 Arguably one of the simplest and best guides to using network sockets in C. Since it's in C you get to understand a lot of concepts that might otherwise be glossed over in higher level languages. Also has basic, boilerplate examples.
 
-- [Network Programmability and Automation](https://www.amazon.com/Network-Programmability-Automation-Next-Generation-Engineer/dp/1491931256/ref=sr_1_1?ie=UTF8&qid=1491481634&sr=8-1&keywords=network+programmability+and+automation)  
+- [Network Programmability and Automation](http://shop.oreilly.com/product/0636920042082.do)  
 Good foundation for Network Engineers looking to be more comfortable with the standard tools of network automation. The book is in early release on Safari Online, and should be released later in 2017.
 
 ## Contribute
