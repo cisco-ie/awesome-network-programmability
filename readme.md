@@ -45,6 +45,9 @@ Agent-based automation tooling. Support for networking devices appears to be on 
 - [pmacct](http://www.pmacct.net)  
 "A small set of multi-purpose passive network monitoring tools. It can account, classify, aggregate, replicate and export forwarding-plane data, ie. IPv4 and IPv6 traffic; collect and correlate control-plane data via BGP and BMP; collect infrastructure data via streaming network telemetry."
 
+- [ToDD](https://github.com/toddproject/todd)  
+"ToDD is an extensible framework for providing natively distributed testing on demand."
+
 ## Libraries
 
 ### General Programmability
@@ -57,11 +60,20 @@ Model-driven APIs for simplified programmability of your network device. Generat
 - [Napalm](https://github.com/napalm-automation/napalm)  
 Network Automation and Programmability Abstraction Layer with Multivendor support
 
+- [Paramiko](http://www.paramiko.org/)  
+Implementation of SSHv2 protocol, providing both client and server functionality.
+
 - [Netmiko](https://github.com/ktbyers/netmiko)  
-Multi-vendor library to simplify Paramiko SSH connections to network devices
+Multi-vendor library to simplify Paramiko SSH connections to network devices.
 
 - [Trigger](https://github.com/trigger/trigger)  
 "... a robust network automation toolkit written in Python that was designed for interfacing with network devices."
+
+- [CiscoConfigParse](http://www.pennington.net/py/ciscoconfparse/)  
+This library examines an IOS-style config and breaks it into a set of linked parent / child relationships for auditing, modifying, and/or building new configurations.
+
+- [Jinja2](http://jinja.pocoo.org/docs/2.9/)  
+Templating language for Python and excellent library to use for generating network device configuration from templates.
 
 ### Examples
 - [Cisco gRPC Connection Libraries](https://github.com/cisco-grpc-connection-libs)  
