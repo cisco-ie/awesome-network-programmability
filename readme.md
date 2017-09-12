@@ -10,6 +10,7 @@
   - [Monitoring](#monitoring)
     - [Dashboard](#dashboard)
     - [Utility](#utility)
+  - [Traffic Simulation](#traffic-simulation)
 - [Libraries](#libraries)
   - [General Programmability](#general-programmability)
   - [Python](#python)
@@ -47,6 +48,33 @@ Agent-based automation tooling. Support for networking devices appears to be on 
 
 - [ToDD](https://github.com/toddproject/todd)  
 "ToDD is an extensible framework for providing natively distributed testing on demand."
+
+- [pipeline](https://github.com/cisco/bigmuddy-network-telemetry-pipeline)  
+"... an all-batteries-included utility which consumes IOS-XR telemetry streams directly from the router or indirectly from a publish/subscribe bus."  
+Supports IOS-XR specifically.
+
+### Traffic Simulation
+
+- [ATC](http://facebook.github.io/augmented-traffic-control/) (Augmented Traffic Control)  
+"A tool to simulate network conditions." "Developers can use ATC to test their application across varying network conditions, easily emulating high speed, mobile, and even severely impaired networks."  
+Developed by Facebook.  
+Supports Linux.
+
+- [Comcast](https://github.com/tylertreat/Comcast)  
+"Simulating [varying] network connections so you can build better systems."  
+Supports Linux and MacOS[X].
+
+- [netem](https://wiki.linuxfoundation.org/networking/netem)  
+"netem provides Network Emulation functionality for testing protocols by emulating the properties of wide area networks. The current version emulates variable delay, loss, duplication and re-ordering."  
+Supports Linux.
+
+- [dummynet](http://info.iet.unipi.it/~luigi/dummynet/)  
+"traffic shaper, bandwidth manager and delay emulator"  
+Supports \*BSD and MacOS[X].  
+Note for MacOS, ```ipfw``` was deprecated in OSX 10.10 and replaced with ```pfctl```. Documentation is few and far between. ```dnctl``` is utilized to control dummynet on MacOS. YMMV.
+
+- [tc](http://tldp.org/HOWTO/Traffic-Control-HOWTO/intro.html) (Linux Traffic Control)  
+A comprehensive overview of traffic control capabilities on Linux systems.
 
 ## Libraries
 
