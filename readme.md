@@ -35,6 +35,9 @@ Agent-based automation tooling. Support for networking devices appears to be on 
 
 ### Monitoring
 
+- [Stanford Network Monitoring Tools](https://www.slac.stanford.edu/xorg/nmtf/nmtf-tools.html)  
+An unbelievably comprehensive list of network monitoring tools. If you want to look at everything, look here.
+
 #### Dashboard
 - [Observium](http://www.observium.org)  
 "Observium is a low-maintenance auto-discovering network monitoring platform supporting a wide range of device types, platforms and operating systems ..."
@@ -53,7 +56,7 @@ Agent-based automation tooling. Support for networking devices appears to be on 
 "... an all-batteries-included utility which consumes IOS-XR telemetry streams directly from the router or indirectly from a publish/subscribe bus."  
 Supports IOS-XR specifically.
 
-### Traffic Simulation
+### Network Condition Simulation
 
 - [ATC](http://facebook.github.io/augmented-traffic-control/) (Augmented Traffic Control)  
 "A tool to simulate network conditions." "Developers can use ATC to test their application across varying network conditions, easily emulating high speed, mobile, and even severely impaired networks."  
@@ -75,6 +78,21 @@ Note for MacOS, ```ipfw``` was deprecated in OSX 10.10 and replaced with ```pfct
 
 - [tc](http://tldp.org/HOWTO/Traffic-Control-HOWTO/intro.html) (Linux Traffic Control)  
 A comprehensive overview of traffic control capabilities on Linux systems.
+
+### Traffic Simulation
+
+#### Solution
+
+- [Ostinato](http://ostinato.org/)  
+"Ostinato is a packet crafter, network traffic generator and analyzer with a friendly GUI."
+
+- [IxChariot](https://www.ixiacom.com/products/ixchariot)  
+"Instant performance assessment of complex networks in pre and post deployment."
+
+#### Utility
+
+- [scapy](http://secdev.org/projects/scapy/)  
+"... a powerful interactive packet manipulation program. It is able to forge or decode packets of a wide number of protocols, send them on the wire, capture them, match requests and replies, and much more."
 
 ## Libraries
 
