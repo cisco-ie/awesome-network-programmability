@@ -124,6 +124,9 @@ This library examines an IOS-style config and breaks it into a set of linked par
 - [Jinja2](http://jinja.pocoo.org/docs/2.9/)  
 Templating language for Python and excellent library to use for generating network device configuration from templates.
 
+- [beka](https://github.com/samrussell/beka)  
+A Python BGP Speaker.
+
 ### Examples
 - [Cisco gRPC Connection Libraries](https://github.com/cisco-grpc-connection-libs)  
 Example repositories on how to use gRPC in Python, NodeJS, etc. for the IOS-XR end node.
