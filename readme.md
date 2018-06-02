@@ -82,6 +82,9 @@ Note for MacOS, ```ipfw``` was deprecated in OSX 10.10 and replaced with ```pfct
 - [tc](http://tldp.org/HOWTO/Traffic-Control-HOWTO/intro.html) (Linux Traffic Control)  
 A comprehensive overview of traffic control capabilities on Linux systems.
 
+- [Network-Conditions-Emulator](https://github.com/marty90/Network-Conditions-Emulator)
+"Artificially limit bandwidth, delay and loss rate on selected interfaces."
+
 ### Traffic Simulation
 
 #### Solution
