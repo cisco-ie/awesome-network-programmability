@@ -127,6 +127,9 @@ Templating language for Python and excellent library to use for generating netwo
 - [beka](https://github.com/samrussell/beka)  
 A Python BGP Speaker.
 
+- [yabgp](https://github.com/smartbgp/yabgp)
+YABGP is a Yet Another Python implementation for BGP Protocol.
+
 ### Examples
 - [Cisco gRPC Connection Libraries](https://github.com/cisco-grpc-connection-libs)  
 Example repositories on how to use gRPC in Python, NodeJS, etc. for the IOS-XR end node.
