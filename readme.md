@@ -33,6 +33,9 @@ An agent-based automation tooling that can perform a variety of automation funct
 - [Chef](https://docs.chef.io/chef_overview.html)  
 Agent-based automation tooling that focuses on the concept of "Infrastructure as Code."
 
+- [netcfg-vault](https://github.com/BG8CFB/netcfg-vault)  
+CLI that batch-backs up network device configurations (H3C/Huawei/Cisco/Ruijie), diffs changes, schedules recurring backups with webhook alerts, and stores them in AES-256-GCM encrypted vaults.
+
 - [Salt](https://docs.saltstack.com/en/latest/)  
 Agent-based automation tooling. Support for networking devices appears to be on the backseat, but has modules that provide some functionality like [via NSO](https://docs.saltstack.com/en/latest/ref/proxy/all/salt.proxy.cisconso.html).
 
